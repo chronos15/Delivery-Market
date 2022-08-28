@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>470876095158-ii2pjiuqpflgb752nbe8b34rv072cgns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.470876095158-ii2pjiuqpflgb752nbe8b34rv072cgns</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>470876095158-b345c0r3cqrn6s062o8tq7o1a4816tt8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCc0MFB12dn7UscVr_qKdtuG4uA1qNnohE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>470876095158</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chronos.dashboard</string>
+	<key>PROJECT_ID</key>
+	<string>vendasonline-8fc03</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vendasonline-8fc03.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:470876095158:ios:dbf22889564cd000ad5c17</string>
+</dict>
+</plist>

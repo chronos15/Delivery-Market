@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "470876095158",
+    "project_id": "vendasonline-8fc03",
+    "storage_bucket": "vendasonline-8fc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470876095158:android:0295339c35c03f29ad5c17",
+        "android_client_info": {
+          "package_name": "com.chronos.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470876095158-b345c0r3cqrn6s062o8tq7o1a4816tt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chronos.dashboard",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "470876095158-dfa56gnhs9e09qs7jkallu4gd2b36j6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYfd7d8aDBIFGotKKllMR0Bwu0UVE1Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470876095158-dfa56gnhs9e09qs7jkallu4gd2b36j6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470876095158-ii2pjiuqpflgb752nbe8b34rv072cgns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chronos.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470876095158:android:67c19f4311d4222aad5c17",
+        "android_client_info": {
+          "package_name": "com.chronos.mobapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470876095158-g9k3pqmq2ljtqaubm5nesuqiqmcia22a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chronos.mobapi",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "470876095158-dfa56gnhs9e09qs7jkallu4gd2b36j6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYfd7d8aDBIFGotKKllMR0Bwu0UVE1Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470876095158-dfa56gnhs9e09qs7jkallu4gd2b36j6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470876095158-ii2pjiuqpflgb752nbe8b34rv072cgns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chronos.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

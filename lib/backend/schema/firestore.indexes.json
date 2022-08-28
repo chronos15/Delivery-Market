@@ -1,0 +1,58 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "produtos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "tipo",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "descricao",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "produtos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "codgrupo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "descricao",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "produtos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "codsubgrupo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "descricao",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}
